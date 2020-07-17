@@ -6,4 +6,4 @@ We are predicting player's finishing placement based on various stats in the mob
 
 PUBG Exploration Script outlines the different exploratory techniques that I have attempted. This includes the removal of outliers (e.g. hackers),feature engineering, plotting of feature importance, removal of redundant variables and partial dependence plots. 
 
-PUBG submission script puts all of the learned techniques together, for the final submission. We now run a Random Forest on 4.4 million observations, attaining a 92% R^2 on our validation set. 
+PUBG submission script puts all of the learned techniques together, for the final submission. We now run a Random Forest on 4.4 million observations, attaining a 92.5% R^2 on our validation set. 
